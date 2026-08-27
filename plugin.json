@@ -1,0 +1,6 @@
+{
+    "name": "TinyMCE Visual Editor",
+    "version": "1.0.0",
+    "author": "Wardok Studio",
+    "description": "Replaces standard textareas with the visual TinyMCE WYSIWYG editor for posts and static pages."
+}
