@@ -1,6 +1,6 @@
 {
-    "name": "TinyMCE Visual Editor",
-    "version": "1.0.0",
+    "name": "TinyMCE & Markdown Dual Editor",
+    "version": "1.2.0",
     "author": "Wardok Studio",
-    "description": "Replaces standard textareas with the visual TinyMCE WYSIWYG editor for posts and static pages."
+    "description": "Powerful dual-mode editor supporting both TinyMCE visual WYSIWYG and pure Markdown with live preview and auto-compilation to HTML."
 }
